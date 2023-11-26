@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class Stats : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public float _vida;
+    public float _daño;
+    public float _velocidad;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
